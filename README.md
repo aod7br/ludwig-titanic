@@ -1,5 +1,5 @@
 # ludwig-titanic
-jupyter notebook and data for uber's ludwig
+Jupyter notebook and data for Uber's ludwig example
 
 I assembled this notebook after reading this article:
 
